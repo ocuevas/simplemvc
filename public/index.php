@@ -1,1 +1,9 @@
-<h2>Hello World</h2>
+<?php
+//require the bootstrap file
+require_once '../app/bootstrap.php';
+
+//Init Core Library
+$init = new Core();
+
+
+
